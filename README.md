@@ -1,6 +1,7 @@
-### Hi there 👋
+![image](https://github.com/valllner/valllner/assets/92387322/0ce9c12f-0e74-4688-8c4b-b3815d449b59)![image](https://github.com/valllner/valllner/assets/92387322/65108816-0de5-4648-97e9-26bef426e6ca)### Hi there 👋
 
-![Alt-текст](./EVT_NEW/lr10/assets/header.png)
+![Alt-текст](https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 #### Русакова Валерия
 [Мои работы](https://legendary-baklava-3861d3.netlify.app)
 
